@@ -31,7 +31,7 @@ GAMELOOT aims to empower players and make gaming more rewarding and decentralize
 ---
 
 ### 👨‍💻 Developed by:
-**Your Name**  
+**Harsh Raghuwanshi**  
 Blockchain Developer | Solidity Enthusiast
 CONTRACT ADDRESS:0xFa2353D7183710f8190477920c3A72e4c2ca6c54
 
